@@ -1,0 +1,6 @@
+{
+  "name": "MediSync AI",
+  "description": "Cross-platform medication management, caregiver alerts, adherence analytics, agency dashboard, and educational AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
